@@ -38,8 +38,8 @@ footer, header, hgroup, menu, nav, section {
     --logo-instagram: url("images/images_pc/logo_instagram_ligth_mode.png");
     --video-light-logo-home: url("images/images_pc/logo_home_light_mode.mp4");
     --video-dark-logo-home: url("images/images_pc/logo_home_dark_mode.mp4");
-    --video-light-logo-hom-mobile: url("images/images_mobile/logo_home_light_mode.mp4");
-    --video-dark-logo-home-mobile: url("images/images_mobile/logo_home_dark_mode.mp4");
+    --video-light-logo-hom-mobile: url("images/images_mobile/logo_home_light_mode_mobile.mp4");
+    --video-dark-logo-home-mobile: url("images/images_mobile/logo_home_dark_mode_mobile.mp4");
 }
 
 @media (prefers-color-scheme: dark){
@@ -51,8 +51,8 @@ footer, header, hgroup, menu, nav, section {
         --logo-instagram: url("images/images_pc/logo_instagram_dark_mode.png");
         --video-light-logo-home: url("images/images_pc/logo_home_dark_mode.mp4");
         --video-dark-logo-home: url("images/images_pc/logo_home_light_mode.mp4");
-        --video-light-logo-hom-mobile: url("images/images_mobile/logo_home_dark_mode.mp4");
-        --video-dark-logo-home-mobile: url("images/images_mobile/logo_home_light_mode.mp4");
+        --video-light-logo-hom-mobile: url("images/images_mobile/logo_home_dark_mode_mobile.mp4");
+        --video-dark-logo-home-mobile: url("images/images_mobile/logo_home_light_mode_mobile.mp4");
     }
 
     .video-light {
