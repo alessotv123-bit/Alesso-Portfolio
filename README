@@ -1,0 +1,81 @@
+# Portfolio V2 — Commande 2
+
+## Auteur: **Spezi Alessio** 
+Bloc 3 - Année 2025-2026
+Section : Arts Graphiques
+--
+
+## Accessibilité & Dark/Light mode 🌙☀️
+
+- Activation par le système de l'appareil
+
+Versio Light
+![alt text](<captures/Capture d'écran 2025-12-07 195536.png>)
+
+Version Dark
+![alt text](<captures/Capture d'écran 2025-12-07 195659.png>)
+
+#### Dans mon site j'ai 3 couleurs principales:
+- Noir (#131313)
+- Blanc (#fffaee)
+- Orange (#b36a22)
+
+En light mode, le blanc est dominant et l'orange pétant. Tandis qu'en dark mode, le noir est dominant et l'orange pétant est atténué.
+
+## Template PSD
+
+Pour chaque maquette, je me suis imposé une grille différente pour garder un design cohérent selon l'affichage. 12 colonnes pour la version desktop, 10 pour la version tablette et 8 pour la version mobile. 
+
+## Responsive Design & Grilles CSS
+
+### **≥ 801 pixels**
+
+![alt text](captures/PortfolioV2_desktop_dark_mode.png)
+
+### **800 - 481 pixels**
+
+![alt text](captures/PortfolioV2_tablette_dark_mode.png)
+
+### **≤ 480 pixels**
+
+![alt text](captures/PortfolioV2_mobile_dark_mode.png)
+Pour faire en sorte que le design du site s’adapte à toutes les tailles 
+d’interface, j’ai travaillé avec un système 3 colonnes minimum pour la version desktop, 2 pour la version tablette et 1 pour la version mobile.
+
+## Ligthbox CSS
+
+Lightbox Fermée
+![alt text](<captures/Capture d'écran 2025-12-08 080434.png>)
+
+Lightbox Ouverte
+![alt text](<captures/Capture d'écran 2025-12-08 080602.png>)
+
+## Animation | Balise animée After Effects
+
+### **Balise desktop | tablette**
+![alt text](<captures/Capture d'écran 2025-12-08 082330.png>)
+
+### **Balise Mobile**
+![alt text](<captures/Capture d'écran 2025-12-08 100128.png>)
+
+J’ai opté pour une animation sobre de 3 secondes, sans loop adaptable en light et dark mode. L’animation a sa variante pour la version mobile en vertical.
+
+## Formulaire de contact
+
+### **Formulaire**
+![alt text](<captures/Capture d'écran 2025-12-08 083534.png>)
+
+
+## Mise en ligne 
+
+Étapes de mise en ligne:
+
+- git commit -m "first commit"
+
+- git branch -M main
+
+- git remote add origin https://github.com/alessotv123-bit/Alesso Portfolio.git
+
+- git push -u origin main
+
+- **GitHub Pages :** [Mon site !](https://alessotv123-bit.github.io/Alesso-Portfolio/)
